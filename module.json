@@ -1,0 +1,14 @@
+{
+  "name": "dnd5e-perfect-crits",
+  "title": "DnD5e Perfect Crits",
+  "description": "Rolls critical damage as perfect crits.",
+  "version": "1.0.0",
+  "author": "blargent",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.8.9",
+  "esmodules": ["./scripts/index.js"],
+  "styles": ["./styles/attackRollDialog.css", "./styles/chatTemplate.css"],
+  "url": "https://github.com/BrettLargent/dnd5e-perfect-crits",
+  "manifest": "https://raw.githubusercontent.com/BrettLargent/dnd5e-perfect-crits/main/module.json",
+  "download": "https://github.com/BrettLargent/dnd5e-perfect-crits/archive/refs/heads/main.zip"
+}
