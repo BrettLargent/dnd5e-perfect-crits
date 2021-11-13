@@ -7,3 +7,11 @@ A typical critical hit within DnD5e means that twice as many dice are rolled whe
 This module allows individual users the ability to enable/disable this functionality under the typical `Configure Settings` &rarr; `Module Settings` dialog, and is true by default. Users can also right-click on the `.chat-control-icon` (the d20 just above the chat message textarea) to more quickly toggle this functionality.
 
 ![perfect critical hits](./images/perfect-crits.gif)
+
+---
+
+## Dependencies
+
+- Foundry VTT Quick Module Context Menu Settings
+  - manifest: https://raw.githubusercontent.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings/main/module.json
+  - url: https://github.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings
