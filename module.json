@@ -2,10 +2,16 @@
   "name": "dnd5e-perfect-crits",
   "title": "DnD5e Perfect Crits",
   "description": "Rolls critical damage as perfect crits.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "blargent",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.8.9",
+  "dependencies": [
+    {
+      "name": "foundry-vtt-quick-module-context-menu-settings",
+      "manifest": "https://raw.githubusercontent.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings/main/module.json"
+    }
+  ],
   "esmodules": ["./scripts/index.js"],
   "styles": ["./styles/attackRollDialog.css", "./styles/chatTemplate.css"],
   "url": "https://github.com/BrettLargent/dnd5e-perfect-crits",
