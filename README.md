@@ -13,5 +13,5 @@ This module allows individual users the ability to enable/disable this functiona
 ## Dependencies
 
 - Foundry VTT Quick Module Context Menu Settings
-  - manifest: https://raw.githubusercontent.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings/main/module.json
-  - url: https://github.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings
+  - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-quick-module-context-menu-settings/main/module.json
+  - url: https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-quick-module-context-menu-settings

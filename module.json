@@ -9,11 +9,11 @@
   "dependencies": [
     {
       "name": "foundry-vtt-quick-module-context-menu-settings",
-      "manifest": "https://raw.githubusercontent.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings/main/module.json"
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-quick-module-context-menu-settings/main/module.json"
     }
   ],
   "scripts": ["./scripts/index.js"],
-  "url": "https://github.com/BrettLargent/dnd5e-perfect-crits",
-  "manifest": "https://raw.githubusercontent.com/BrettLargent/dnd5e-perfect-crits/main/module.json",
-  "download": "https://github.com/BrettLargent/dnd5e-perfect-crits/archive/refs/heads/main.zip"
+  "url": "https://github.com/Erebus-FoundryVTT-Modules/dnd5e-perfect-crits",
+  "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dnd5e-perfect-crits/main/module.json",
+  "download": "https://github.com/Erebus-FoundryVTT-Modules/dnd5e-perfect-crits/archive/refs/heads/main.zip"
 }
